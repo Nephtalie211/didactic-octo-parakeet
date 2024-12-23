@@ -1,0 +1,4 @@
+// Affiche yon mesaj nan navigatè a lè paj la chaje
+document.addEventListener("DOMContentLoaded", function() {
+alert("Byenveni sou paj wèb mwen an!");
+});

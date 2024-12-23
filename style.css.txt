@@ -1,0 +1,36 @@
+/* Estil Debaz pou Paj Wèb la */
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+margin: 0;
+padding: 0;
+color: #333;
+}
+
+/* Header */
+header {
+background-color: #4CAF50;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+/* Seksyon */
+section {
+padding: 20px;
+margin: 20px;
+background-color: white;
+border: 1px solid #ccc;
+border-radius: 8px;
+}
+
+/* Footer */
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
